@@ -16,6 +16,6 @@ Welcome to my GitHub profile! I'm a Student in SUSS.
 
 Here are some of my notable projects:
 
-- **Pipeline - Meter related software that utilizes AI to read values and convert them to smart usage in an Application.
-- **Erpo World - http://docs.erpo.world
+- **Pipeline** - Meter related software that utilizes AI to read values and convert them to smart usage in an Application.
+- **Erpo World** - http://docs.erpo.world
 
