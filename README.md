@@ -5,22 +5,17 @@ Welcome to my GitHub profile! I'm a Student in SUSS.
 ## 🌟 About Me
 
 - 🌱 I’m currently learning **ICT**
-- 📫 How to reach me: **[Your Email Address or Social Media Links]**
+- 📫 How to reach me: **masonchew002@suss.edu.sg**
 
 
 ## 🛠️ My Tech Stack
 
-- **Languages:** Pyhton, Java, Rust
+- **Languages:** Pyhton, Java, JavaScript, Rust, OOP, etc.
 
 ## 📂 Projects
 
 Here are some of my notable projects:
 
-- **[Project 1 Name](Link to Project):** A brief description of the project.
-- **[Project 2 Name](Link to Project):** A brief description of the project.
-- **[Project 3 Name](Link to Project):** A brief description of the project.
+- **Pipeline - Meter related software that utilizes AI to read values and convert them to smart usage in an Application.
+- **Erpo World - http://docs.erpo.world
 
-Feel free to explore my repositories to see what I've been working on. I'm always open to feedback, collaboration, and new ideas!
-
-
-Thank you for visiting my profile!
